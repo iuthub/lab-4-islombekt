@@ -5,7 +5,7 @@ In this exercises, you should make a form which takes payment information from s
 
 ### Student Details:
 
-- **Student ID**: U1610069
-- **Student Name**: Farrukh Tulkunov
-- **Section Number**: 003
+- **Student ID**: U1610084
+- **Student Name**: Islombek Tokhirov
+- **Section Number**: 002
 
